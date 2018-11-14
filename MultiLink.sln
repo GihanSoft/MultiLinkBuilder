@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiLink", "MultiLink\MultiLink.csproj", "{04FB2BC8-9A23-4C44-A160-4BEBBA0B6C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04FB2BC8-9A23-4C44-A160-4BEBBA0B6C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04FB2BC8-9A23-4C44-A160-4BEBBA0B6C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04FB2BC8-9A23-4C44-A160-4BEBBA0B6C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04FB2BC8-9A23-4C44-A160-4BEBBA0B6C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFD42F53-E2C6-4BE8-82BD-5107AF8DD526}
+	EndGlobalSection
+EndGlobal
