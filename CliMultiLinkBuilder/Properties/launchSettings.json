@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CliMultiLinkBuilder": {
+      "commandName": "Project",
+      "commandLineArgs": "http://zaraban.info/s1/Anime/2017/paiiz/Black%20Clover%20TV/x265/Black.Clover.TV.$$.%5B720-x265%5D.takanime.pw.mkv 50 55"
+    }
+  }
+}
